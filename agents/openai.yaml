@@ -1,0 +1,4 @@
+interface:
+  display_name: "Critique"
+  short_description: "Adversarial review and revision loop"
+  default_prompt: "Use $critique to red-team my answer and revise it."
